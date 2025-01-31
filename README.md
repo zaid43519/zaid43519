@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 -🔭 Currently working on mastering full-stack technologies
 -🌱 Learning backend development with PHP and SQL
--📫 How to reach me: Email - zaid43519@gmail.com / linkedin - www.linkedin.com/in/zaid-khan-182866310
+-📫 How to reach me: Email - zaid43519@gmail.com / linkedin - www.linkedin.com/in/mohammad-zaid-khan-44a672346
 
 
 <!---
